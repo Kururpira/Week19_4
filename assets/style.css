@@ -1,0 +1,26 @@
+h1{
+	font-size: 30px;
+	color: blue;
+}
+
+h2 {
+	font-size: xx-large;
+	color: #077825de;
+}
+
+
+
+div {
+	
+}
+
+span {
+	font-size: medium;
+}
+button{
+background-color: rgb(230, 47, 117);
+color: aquamarine;
+border-radius: 10%;
+width: 7em;
+
+}
